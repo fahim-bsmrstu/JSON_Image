@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSON Image</string>
+    <string name="action_settings">Refresh</string>
+    <string name="title_activity_second_activity">Second_activity</string>
+    <string name="title_activity_product_page">ProductPage</string>
+    <string name="title_activity_shifu">Shifu</string>
+</resources>
